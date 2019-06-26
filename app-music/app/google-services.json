@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "792518253696",
+    "firebase_url": "https://asiantech-intern-final.firebaseio.com",
+    "project_id": "asiantech-intern-final",
+    "storage_bucket": "asiantech-intern-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792518253696:android:1ba5570024fef5ff",
+        "android_client_info": {
+          "package_name": "internship.asiantech.a2018summerfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792518253696-cr0cqcjo5j15p6pq02jskieh5tvh56ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs_79Q32PCjtbcXP84Xh2AObK0cI6VBKk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

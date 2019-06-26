@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">app-music</string>
+    <string name="prompt_mail">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_music">Artist, Song</string>
+    <string name="action_login">Login</string>
+    <string name="action_register">Register?</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_change">Change</string>
+    <string name="loading_name_app">English Music</string>
+    <string name="loading_progress1">loading progress</string>
+    <string name="loading_decription_logo">imageview</string>
+    <string name="minibar_time_default">00:00</string>
+    <string name="home_minibar_test_name_song">Co gai den tu hom qua</string>
+    <string name="home_minibar_test_name_author">My Tam</string>
+    <string name="imageview">image view not load</string>
+    <string name="imagebutton">image button not load</string>
+    <string name="prompt_repeat_password">Repeat Password</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_old_password">Old password</string>
+    <string name="prompt_new_password">New password</string>
+    <string name="prompt_age">Age</string>
+    <string name="map_api_key">AIzaSyAFYsveOdOJB25LC0BgwpoqSwgj4KejkrE</string>
+    <string name="toolbar_text_hint_search">Input Name, Song, Artist</string>
+    <string name="toolbar_text_libary">Library music</string>
+    <string name="description_menu">menu</string>
+    <string name="log_out">Logout</string>
+    <string name="album">Album</string>
+    <string name="date_time">04/08/2018</string>
+    <string name="add_album">Add album</string>
+    <string name="avatar_article">Avatar article</string>
+    <string name="play_list">Playlist</string>
+    <string name="create_new">Create new</string>
+    <string name="create_new_song">Create new Song</string>
+    <string name="change_playlist">Change</string>
+    <string name="error_password">Password is 6 or more character and only contains letter and number </string>
+    <string name="error_old_password">Old password is incorrect</string>
+    <string name="error_name">Name is fail format</string>
+    <string name="error_mail">Mail is fail format</string>
+    <string name="error_age">Age is fail</string>
+    <string name="error_password_not_match_repeat_password">Password is not match repeat password</string>
+    <string name="error_not_enough_information">Please, fill up your information</string>
+    <string name="error_sign_up">Sign up failed</string>
+    <string name="error_upload_image">Upload avatar image is failed</string>
+    <string name="error_login">Login fail</string>
+    <string name="error_reset_password">Reset password error</string>
+    <string name="error_load_gallery">Error load gallery</string>
+    <string name="success">Success</string>
+    <string name="song"> song </string>
+    <string name="toolbar_text_choice">action</string>
+    <string name="choiceAllSOng">choice all songs</string>
+    <string name="playlist_choice_text_add">Add songs</string>
+    <string name="title_dialog">New Create</string>
+    <string name="input_playlist">input playlist</string>
+    <string name="ok">OK</string>
+    <string name="exit">EXIT</string>
+    <string name="no">NO</string>
+    <string name="cancel">Cancel</string>
+    <string name="message_delete_song">You want delete this song</string>
+    <string name="exit_choice_all">clear choice all</string>
+    <string name="your_location">Your location</string>
+    <string name="favourite">Favourite</string>
+    <string name="delete_song">Delete Song</string>
+    <string name="history">History</string>
+    <string name="all_song">All song</string>
+
+    <string name="error_open_camera">Can\'t open camera</string>
+    <string name="error_open_galery">Can\'t open galery</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
